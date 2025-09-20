@@ -1,0 +1,63 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #000;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #1b4f8f;
+  letter-spacing: 3px;
+  font-weight: normal;
+  margin-bottom: 25px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.intro {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.emphasis {
+  text-align: left;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.mission-list {
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.mission-list li {
+  margin-bottom: 15px;
+}
+
+footer {
+  text-align: center;
+}
+
+img {
+  max-width: 20%;
+  height: auto;
+  margin-top: 20px;
+}
